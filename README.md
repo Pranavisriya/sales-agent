@@ -1,6 +1,6 @@
 # Sales Agent
 
-An agent which provides recommendations based on your choice and in price range, checks the product in the stock and checkout the products that you are intrested in
+An agent that recommends products within your budget and preferences, checks real-time stock status, and helps you proceed to checkout—all in one flow.
 
 ## Prerequisites
 
@@ -56,9 +56,9 @@ streamlit run frontend.py
 
 ## Features
 
-- Recommend products based on your criteria such as minimum rating and minimum price
-- Check whether the products are in stock or not
-- Checkout the product if you are intrested to buy
+- Smart recommendations: Filter by your chosen criteria (e.g., minimum rating, price range).
+- Inventory checks: Verify whether items are in stock before you decide.
+- Guided checkout: Seamlessly proceed to purchase the products you’re interested in.
 
 
 ## License
@@ -68,3 +68,4 @@ This project is licensed under the terms included in the LICENSE file.
 ## Author
 
 Pranavi Sriya (pranavisriyavajha9@gmail.com)
+
