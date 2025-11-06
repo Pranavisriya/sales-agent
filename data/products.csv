@@ -1,0 +1,201 @@
+product_id,product_name,product_type,product_description,minimum_rating,price,price_range,inventory,in_stock
+P0001,NovaTech Headphones Mini,headphones,"fast charging, stainless steel, USB-C",5.0,404.52,$300–$599,4,True
+P0002,Aster Power bank Pro,power bank,"fast charging, polycarbonate body, USB-C",3.8,26.6,under $100,26,True
+P0003,Qubit Power bank Pro,power bank,"water resistant, aluminum frame, NFC",4.1,126.63,$100–$299,7,True
+P0004,Aster Smartphone Pro,smartphone,"smartphone with AMOLED display, dual-SIM, polycarbonate body, USB-C",4.3,823.17,$600–$899,8,True
+P0005,BlueLeaf Phone case Neo,phone case,"fast charging, polycarbonate body, microSD slot",3.6,49.89,under $100,11,True
+P0006,Aquila Laptop Max,laptop,"laptop with IPS display, wireless charging, recycled materials, microSD slot",4.1,1672.3,$900+,39,True
+P0007,Futura Charger Go,charger,"noise cancellation, polycarbonate body, USB-C",4.1,35.31,under $100,15,True
+P0008,BlueLeaf Phone case Neo,phone case,"wireless charging, stainless steel, USB-C",3.0,32.23,under $100,21,True
+P0009,Aquila Laptop Mini,laptop,"laptop with IPS display, wireless charging, recycled materials, USB-C",4.7,913.43,$900+,21,True
+P0010,Aquila Laptop Edge,laptop,"laptop with AMOLED display, MagSafe-compatible, recycled materials, NFC",4.5,2099.28,$900+,20,True
+P0011,Acme Laptop Air,laptop,"laptop with OLED display, 5G support, recycled materials, microSD slot",3.7,1500.79,$900+,4,True
+P0012,Zenro Camera Pro,camera,"noise cancellation, aluminum frame, NFC",4.0,1893.17,$900+,22,True
+P0013,Aster Smartphone Air,smartphone,"smartphone with Retina display, dual-SIM, recycled materials, USB-C",4.4,459.94,$300–$599,15,True
+P0014,Solix Tablet Mini,tablet,"tablet with Retina display, 5G support, recycled materials, microSD slot",3.9,639.55,$600–$899,8,True
+P0015,Aster Camera Lite,camera,"water resistant, polycarbonate body, USB-C",4.0,349.37,$300–$599,9,True
+P0016,Futura Charger Lite,charger,"noise cancellation, recycled materials, microSD slot",3.2,28.39,under $100,0,False
+P0017,Futura Phone case Ultra,phone case,"long battery life, recycled materials, NFC",4.4,57.42,under $100,32,True
+P0018,Qubit Camera Mini,camera,"dual-SIM, aluminum frame, Lightning",4.2,386.37,$300–$599,40,True
+P0019,Aster Laptop Go,laptop,"laptop with E-Ink display, long battery life, aluminum frame, USB-C",4.3,908.38,$900+,21,True
+P0020,NovaTech Phone case Neo,phone case,"long battery life, aluminum frame, Lightning",3.2,10.58,under $100,23,True
+P0021,Qubit Phone case Lite,phone case,"MagSafe-compatible, recycled materials, USB-C",5.0,39.89,under $100,22,True
+P0022,Solix Laptop Go,laptop,"laptop with OLED display, noise cancellation, aluminum frame, microSD slot",4.2,1512.75,$900+,19,True
+P0023,Solix Earbuds Lite,earbuds,"MagSafe-compatible, polycarbonate body, USB-C",3.9,164.57,$100–$299,13,True
+P0024,BlueLeaf Power bank Max,power bank,"MagSafe-compatible, polycarbonate body, microSD slot",5.0,108.99,$100–$299,16,True
+P0025,Aquila Smartwatch Neo,smartwatch,"water resistant, polycarbonate body, Lightning",4.1,485.11,$300–$599,21,True
+P0026,Aster Camera Plus,camera,"long battery life, aluminum frame, microSD slot",3.2,1131.75,$900+,22,True
+P0027,BlueLeaf Charger Plus,charger,"wireless charging, stainless steel, microSD slot",3.9,58.48,under $100,22,True
+P0028,Aster Laptop Max,laptop,"laptop with AMOLED display, water resistant, recycled materials, USB-C",2.7,1031.01,$900+,12,True
+P0029,Zenro Charger Max,charger,"dual-SIM, polycarbonate body, NFC",4.7,68.43,under $100,7,True
+P0030,Qubit Tablet Ultra,tablet,"tablet with Retina display, dual-SIM, aluminum frame, Lightning",3.9,269.4,$100–$299,25,True
+P0031,NovaTech Tablet Pro,tablet,"tablet with IPS display, wireless charging, stainless steel, Lightning",3.7,320.92,$300–$599,29,True
+P0032,Aquila Power bank Lite,power bank,"noise cancellation, recycled materials, Lightning",4.7,17.89,under $100,6,True
+P0033,Okacha Smartwatch Air,smartwatch,"water resistant, stainless steel, microSD slot",3.1,190.65,$100–$299,32,True
+P0034,Qubit Power bank Lite,power bank,"wireless charging, recycled materials, Lightning",4.4,23.22,under $100,22,True
+P0035,NovaTech Power bank Neo,power bank,"noise cancellation, aluminum frame, Lightning",2.9,83.92,under $100,28,True
+P0036,NovaTech Tablet Go,tablet,"tablet with E-Ink display, long battery life, stainless steel, NFC",3.7,695.28,$600–$899,7,True
+P0037,Aquila Laptop Pro,laptop,"laptop with OLED display, fast charging, recycled materials, USB-C",3.4,1072.14,$900+,17,True
+P0038,Solix Laptop Ultra,laptop,"laptop with E-Ink display, water resistant, stainless steel, NFC",5.0,1763.8,$900+,32,True
+P0039,Aquila Power bank Go,power bank,"5G support, polycarbonate body, NFC",5.0,83.55,under $100,15,True
+P0040,Qubit Tablet Max,tablet,"tablet with OLED display, water resistant, recycled materials, USB-C",3.9,513.89,$300–$599,20,True
+P0041,BlueLeaf Smartwatch Max,smartwatch,"MagSafe-compatible, polycarbonate body, microSD slot",4.6,546.45,$300–$599,9,True
+P0042,Solix Tablet Plus,tablet,"tablet with Retina display, wireless charging, polycarbonate body, Lightning",4.0,797.35,$600–$899,6,True
+P0043,Qubit Tablet Neo,tablet,"tablet with IPS display, MagSafe-compatible, stainless steel, USB-C",4.4,523.05,$300–$599,26,True
+P0044,Okacha Headphones Ultra,headphones,"long battery life, recycled materials, microSD slot",3.6,350.27,$300–$599,28,True
+P0045,Futura Power bank Air,power bank,"fast charging, polycarbonate body, USB-C",3.1,84.16,under $100,4,True
+P0046,BlueLeaf Laptop Air,laptop,"laptop with AMOLED display, noise cancellation, recycled materials, microSD slot",3.0,675.22,$600–$899,11,True
+P0047,NovaTech Camera Neo,camera,"wireless charging, stainless steel, USB-C",4.3,1854.51,$900+,36,True
+P0048,Okacha Earbuds Lite,earbuds,"5G support, aluminum frame, USB-C",5.0,139.09,$100–$299,4,True
+P0049,Acme Earbuds Edge,earbuds,"5G support, aluminum frame, NFC",4.3,259.74,$100–$299,4,True
+P0050,Zenro Smartphone Neo,smartphone,"smartphone with E-Ink display, noise cancellation, aluminum frame, Lightning",3.8,705.1,$600–$899,17,True
+P0051,NovaTech Laptop Air,laptop,"laptop with AMOLED display, 5G support, polycarbonate body, microSD slot",5.0,695.72,$600–$899,12,True
+P0052,Aquila Charger Lite,charger,"5G support, aluminum frame, USB-C",4.2,28.94,under $100,1,True
+P0053,Aquila Smartphone Neo,smartphone,"smartphone with Retina display, water resistant, recycled materials, USB-C",4.2,1181.34,$900+,32,True
+P0054,Solix Camera Neo,camera,"5G support, polycarbonate body, Lightning",4.3,1702.31,$900+,25,True
+P0055,Aster Headphones Lite,headphones,"long battery life, polycarbonate body, USB-C",4.0,266.63,$100–$299,22,True
+P0056,BlueLeaf Laptop Mini,laptop,"laptop with Retina display, 5G support, polycarbonate body, microSD slot",3.9,910.17,$900+,5,True
+P0057,Solix Smartphone Lite,smartphone,"smartphone with OLED display, 5G support, stainless steel, microSD slot",3.2,483.9,$300–$599,28,True
+P0058,Zenro Power bank Plus,power bank,"water resistant, stainless steel, Lightning",4.4,19.65,under $100,19,True
+P0059,Zenro Smartphone Mini,smartphone,"smartphone with E-Ink display, water resistant, polycarbonate body, USB-C",4.0,421.31,$300–$599,17,True
+P0060,BlueLeaf Laptop Max,laptop,"laptop with OLED display, dual-SIM, aluminum frame, microSD slot",4.8,873.34,$600–$899,37,True
+P0061,Aster Earbuds Max,earbuds,"noise cancellation, recycled materials, microSD slot",3.9,183.96,$100–$299,33,True
+P0062,NovaTech Charger Air,charger,"long battery life, recycled materials, Lightning",3.0,60.69,under $100,9,True
+P0063,Aquila Power bank Edge,power bank,"water resistant, aluminum frame, USB-C",4.0,127.72,$100–$299,1,True
+P0064,NovaTech Smartphone Ultra,smartphone,"smartphone with Retina display, long battery life, aluminum frame, Lightning",5.0,1165.59,$900+,24,True
+P0065,BlueLeaf Charger Pro,charger,"fast charging, aluminum frame, NFC",3.9,41.99,under $100,4,True
+P0066,Acme Earbuds Air,earbuds,"water resistant, recycled materials, NFC",3.6,85.74,under $100,13,True
+P0067,Acme Camera Go,camera,"long battery life, polycarbonate body, USB-C",3.4,1838.84,$900+,18,True
+P0068,NovaTech Phone case Ultra,phone case,"noise cancellation, aluminum frame, NFC",3.5,18.97,under $100,19,True
+P0069,Solix Smartphone Air,smartphone,"smartphone with IPS display, wireless charging, stainless steel, microSD slot",3.9,1176.63,$900+,6,True
+P0070,Solix Charger Go,charger,"water resistant, stainless steel, USB-C",3.4,63.7,under $100,35,True
+P0071,Okacha Charger Air,charger,"wireless charging, stainless steel, NFC",5.0,42.13,under $100,32,True
+P0072,Aster Smartwatch Max,smartwatch,"5G support, stainless steel, Lightning",3.9,382.37,$300–$599,9,True
+P0073,Aquila Phone case Air,phone case,"water resistant, recycled materials, NFC",4.2,53.78,under $100,23,True
+P0074,Okacha Camera Lite,camera,"wireless charging, recycled materials, microSD slot",5.0,206.46,$100–$299,31,True
+P0075,Qubit Tablet Ultra,tablet,"tablet with AMOLED display, long battery life, stainless steel, microSD slot",5.0,500.88,$300–$599,7,True
+P0076,Acme Camera Plus,camera,"5G support, stainless steel, USB-C",4.0,1483.44,$900+,18,True
+P0077,Qubit Camera Edge,camera,"5G support, aluminum frame, microSD slot",4.3,337.52,$300–$599,27,True
+P0078,Okacha Laptop Air,laptop,"laptop with IPS display, 5G support, recycled materials, microSD slot",4.5,1806.43,$900+,9,True
+P0079,Zenro Smartwatch Mini,smartwatch,"dual-SIM, polycarbonate body, USB-C",4.0,539.82,$300–$599,40,True
+P0080,Qubit Smartphone Go,smartphone,"smartphone with AMOLED display, wireless charging, aluminum frame, Lightning",3.0,872.68,$600–$899,8,True
+P0081,Solix Tablet Mini,tablet,"tablet with AMOLED display, 5G support, recycled materials, Lightning",4.5,474.93,$300–$599,19,True
+P0082,Solix Earbuds Neo,earbuds,"noise cancellation, polycarbonate body, USB-C",4.6,207.29,$100–$299,7,True
+P0083,Aquila Smartwatch Go,smartwatch,"MagSafe-compatible, recycled materials, NFC",4.3,366.2,$300–$599,28,True
+P0084,Aquila Tablet Plus,tablet,"tablet with AMOLED display, fast charging, stainless steel, Lightning",3.5,395.27,$300–$599,11,True
+P0085,BlueLeaf Headphones Edge,headphones,"dual-SIM, recycled materials, NFC",4.0,153.2,$100–$299,1,True
+P0086,Aster Power bank Mini,power bank,"wireless charging, stainless steel, microSD slot",3.7,51.48,under $100,3,True
+P0087,Aquila Tablet Neo,tablet,"tablet with OLED display, 5G support, polycarbonate body, NFC",3.9,703.7,$600–$899,13,True
+P0088,Solix Camera Mini,camera,"noise cancellation, aluminum frame, NFC",4.9,1917.1,$900+,1,True
+P0089,Futura Charger Go,charger,"wireless charging, recycled materials, Lightning",5.0,10.01,under $100,25,True
+P0090,Aster Laptop Lite,laptop,"laptop with Retina display, fast charging, aluminum frame, USB-C",4.5,888.93,$600–$899,6,True
+P0091,Aster Tablet Edge,tablet,"tablet with IPS display, 5G support, recycled materials, USB-C",4.4,935.94,$900+,19,True
+P0092,Acme Laptop Air,laptop,"laptop with IPS display, dual-SIM, stainless steel, Lightning",4.5,1596.43,$900+,37,True
+P0093,Okacha Phone case Pro,phone case,"5G support, stainless steel, Lightning",4.1,34.56,under $100,29,True
+P0094,Aquila Charger Plus,charger,"dual-SIM, stainless steel, USB-C",4.1,48.29,under $100,1,True
+P0095,Aster Smartphone Go,smartphone,"smartphone with OLED display, 5G support, polycarbonate body, NFC",3.7,1102.12,$900+,26,True
+P0096,Aster Headphones Go,headphones,"dual-SIM, stainless steel, NFC",4.1,59.09,under $100,21,True
+P0097,Okacha Smartwatch Air,smartwatch,"fast charging, polycarbonate body, NFC",5.0,464.35,$300–$599,32,True
+P0098,BlueLeaf Smartwatch Plus,smartwatch,"5G support, stainless steel, USB-C",4.6,200.02,$100–$299,14,True
+P0099,Solix Phone case Edge,phone case,"wireless charging, recycled materials, USB-C",3.9,15.3,under $100,14,True
+P0100,NovaTech Phone case Mini,phone case,"noise cancellation, recycled materials, USB-C",3.8,7.99,under $100,1,True
+P0101,NovaTech Smartphone Mini,smartphone,"smartphone with OLED display, fast charging, polycarbonate body, microSD slot",3.6,732.2,$600–$899,20,True
+P0102,NovaTech Smartwatch Neo,smartwatch,"5G support, recycled materials, microSD slot",4.3,468.08,$300–$599,2,True
+P0103,Solix Headphones Lite,headphones,"5G support, aluminum frame, microSD slot",4.3,101.02,$100–$299,5,True
+P0104,Acme Camera Neo,camera,"dual-SIM, stainless steel, microSD slot",3.2,1935.69,$900+,13,True
+P0105,Acme Camera Pro,camera,"MagSafe-compatible, recycled materials, Lightning",4.4,1469.46,$900+,12,True
+P0106,Zenro Headphones Go,headphones,"water resistant, recycled materials, USB-C",3.8,56.96,under $100,26,True
+P0107,Okacha Camera Go,camera,"5G support, polycarbonate body, USB-C",5.0,312.64,$300–$599,3,True
+P0108,Zenro Phone case Ultra,phone case,"long battery life, stainless steel, microSD slot",4.2,19.98,under $100,39,True
+P0109,BlueLeaf Earbuds Pro,earbuds,"fast charging, aluminum frame, Lightning",5.0,222.04,$100–$299,38,True
+P0110,Solix Laptop Go,laptop,"laptop with AMOLED display, dual-SIM, recycled materials, Lightning",3.8,2412.43,$900+,24,True
+P0111,NovaTech Charger Pro,charger,"noise cancellation, polycarbonate body, microSD slot",3.9,66.18,under $100,19,True
+P0112,Solix Headphones Ultra,headphones,"fast charging, polycarbonate body, NFC",4.3,478.95,$300–$599,38,True
+P0113,Aster Tablet Mini,tablet,"tablet with Retina display, MagSafe-compatible, polycarbonate body, NFC",4.7,251.79,$100–$299,2,True
+P0114,Acme Laptop Air,laptop,"laptop with OLED display, dual-SIM, recycled materials, NFC",4.4,1786.74,$900+,13,True
+P0115,Aster Tablet Lite,tablet,"tablet with IPS display, fast charging, stainless steel, microSD slot",3.4,533.47,$300–$599,39,True
+P0116,Futura Earbuds Air,earbuds,"water resistant, recycled materials, Lightning",4.2,124.43,$100–$299,16,True
+P0117,Aster Tablet Plus,tablet,"tablet with IPS display, MagSafe-compatible, aluminum frame, NFC",4.1,322.66,$300–$599,37,True
+P0118,Aster Earbuds Neo,earbuds,"wireless charging, aluminum frame, USB-C",3.8,167.37,$100–$299,6,True
+P0119,Solix Smartphone Plus,smartphone,"smartphone with OLED display, 5G support, polycarbonate body, USB-C",3.7,1064.47,$900+,23,True
+P0120,Aster Smartphone Edge,smartphone,"smartphone with IPS display, fast charging, stainless steel, Lightning",5.0,1177.02,$900+,37,True
+P0121,Futura Charger Air,charger,"fast charging, stainless steel, Lightning",3.9,64.25,under $100,0,False
+P0122,Zenro Smartphone Ultra,smartphone,"smartphone with AMOLED display, long battery life, polycarbonate body, USB-C",3.6,470.16,$300–$599,13,True
+P0123,Qubit Headphones Ultra,headphones,"fast charging, polycarbonate body, USB-C",4.5,143.68,$100–$299,19,True
+P0124,Aquila Charger Go,charger,"dual-SIM, polycarbonate body, USB-C",4.2,14.43,under $100,6,True
+P0125,Qubit Tablet Air,tablet,"tablet with AMOLED display, dual-SIM, aluminum frame, microSD slot",4.1,527.83,$300–$599,18,True
+P0126,Zenro Phone case Mini,phone case,"water resistant, recycled materials, NFC",4.6,27.9,under $100,23,True
+P0127,Okacha Smartwatch Mini,smartwatch,"fast charging, aluminum frame, NFC",4.4,548.85,$300–$599,27,True
+P0128,Zenro Phone case Go,phone case,"long battery life, aluminum frame, Lightning",4.3,47.52,under $100,8,True
+P0129,Acme Camera Edge,camera,"noise cancellation, polycarbonate body, microSD slot",4.7,1319.95,$900+,23,True
+P0130,NovaTech Earbuds Neo,earbuds,"fast charging, recycled materials, NFC",4.3,68.1,under $100,4,True
+P0131,BlueLeaf Smartwatch Lite,smartwatch,"wireless charging, stainless steel, USB-C",3.7,515.39,$300–$599,2,True
+P0132,Qubit Phone case Max,phone case,"noise cancellation, polycarbonate body, NFC",3.9,54.73,under $100,39,True
+P0133,Aster Phone case Go,phone case,"long battery life, recycled materials, Lightning",3.8,15.06,under $100,13,True
+P0134,Zenro Camera Max,camera,"long battery life, aluminum frame, microSD slot",4.2,469.04,$300–$599,12,True
+P0135,Qubit Laptop Edge,laptop,"laptop with AMOLED display, dual-SIM, stainless steel, Lightning",3.5,1465.89,$900+,40,True
+P0136,Qubit Camera Ultra,camera,"noise cancellation, aluminum frame, USB-C",3.0,1004.22,$900+,28,True
+P0137,Solix Phone case Go,phone case,"wireless charging, polycarbonate body, NFC",4.2,17.94,under $100,39,True
+P0138,Acme Camera Max,camera,"MagSafe-compatible, aluminum frame, NFC",3.3,431.22,$300–$599,27,True
+P0139,Aquila Power bank Pro,power bank,"fast charging, stainless steel, USB-C",2.9,20.49,under $100,8,True
+P0140,Aquila Smartphone Mini,smartphone,"smartphone with OLED display, fast charging, aluminum frame, Lightning",4.3,904.83,$900+,8,True
+P0141,Solix Tablet Air,tablet,"tablet with IPS display, fast charging, stainless steel, microSD slot",3.7,965.31,$900+,10,True
+P0142,Zenro Tablet Edge,tablet,"tablet with IPS display, 5G support, recycled materials, Lightning",4.4,419.99,$300–$599,29,True
+P0143,BlueLeaf Phone case Edge,phone case,"MagSafe-compatible, aluminum frame, Lightning",3.8,32.83,under $100,20,True
+P0144,Qubit Tablet Lite,tablet,"tablet with AMOLED display, dual-SIM, polycarbonate body, microSD slot",3.4,709.26,$600–$899,17,True
+P0145,Aquila Laptop Pro,laptop,"laptop with Retina display, fast charging, stainless steel, NFC",3.4,1809.01,$900+,23,True
+P0146,BlueLeaf Headphones Mini,headphones,"noise cancellation, stainless steel, microSD slot",3.8,594.68,$300–$599,36,True
+P0147,Solix Laptop Plus,laptop,"laptop with AMOLED display, 5G support, stainless steel, microSD slot",3.9,935.84,$900+,3,True
+P0148,Okacha Smartphone Plus,smartphone,"smartphone with Retina display, dual-SIM, stainless steel, USB-C",3.6,476.96,$300–$599,39,True
+P0149,Solix Tablet Plus,tablet,"tablet with OLED display, long battery life, aluminum frame, microSD slot",3.9,690.02,$600–$899,2,True
+P0150,Acme Earbuds Neo,earbuds,"dual-SIM, stainless steel, Lightning",3.2,120.0,$100–$299,14,True
+P0151,Zenro Smartwatch Edge,smartwatch,"noise cancellation, aluminum frame, Lightning",4.1,510.81,$300–$599,10,True
+P0152,Solix Tablet Max,tablet,"tablet with AMOLED display, dual-SIM, stainless steel, USB-C",3.0,250.93,$100–$299,9,True
+P0153,Aquila Smartphone Ultra,smartphone,"smartphone with Retina display, wireless charging, polycarbonate body, Lightning",4.0,855.52,$600–$899,37,True
+P0154,Okacha Smartphone Pro,smartphone,"smartphone with IPS display, water resistant, polycarbonate body, USB-C",4.5,801.8,$600–$899,25,True
+P0155,Okacha Laptop Edge,laptop,"laptop with IPS display, dual-SIM, polycarbonate body, NFC",4.8,1646.75,$900+,12,True
+P0156,NovaTech Phone case Neo,phone case,"long battery life, recycled materials, USB-C",5.0,22.02,under $100,19,True
+P0157,Qubit Camera Go,camera,"noise cancellation, polycarbonate body, USB-C",3.2,344.86,$300–$599,28,True
+P0158,Aster Earbuds Pro,earbuds,"long battery life, stainless steel, NFC",4.6,54.51,under $100,16,True
+P0159,BlueLeaf Power bank Air,power bank,"fast charging, aluminum frame, Lightning",4.8,101.67,$100–$299,13,True
+P0160,Aster Earbuds Plus,earbuds,"water resistant, recycled materials, microSD slot",4.7,284.52,$100–$299,20,True
+P0161,Aster Phone case Mini,phone case,"wireless charging, recycled materials, USB-C",3.5,54.92,under $100,40,True
+P0162,Qubit Smartphone Plus,smartphone,"smartphone with IPS display, dual-SIM, aluminum frame, Lightning",4.3,834.79,$600–$899,19,True
+P0163,Okacha Tablet Pro,tablet,"tablet with IPS display, MagSafe-compatible, polycarbonate body, USB-C",5.0,289.51,$100–$299,39,True
+P0164,Okacha Smartphone Lite,smartphone,"smartphone with OLED display, fast charging, aluminum frame, USB-C",3.2,938.73,$900+,40,True
+P0165,Zenro Phone case Plus,phone case,"fast charging, recycled materials, USB-C",4.4,49.97,under $100,34,True
+P0166,Aster Smartwatch Plus,smartwatch,"fast charging, stainless steel, NFC",4.8,138.22,$100–$299,2,True
+P0167,NovaTech Laptop Max,laptop,"laptop with AMOLED display, MagSafe-compatible, stainless steel, NFC",3.7,2104.74,$900+,13,True
+P0168,Okacha Earbuds Ultra,earbuds,"long battery life, stainless steel, microSD slot",4.4,91.88,under $100,18,True
+P0169,Aquila Phone case Go,phone case,"long battery life, recycled materials, USB-C",3.5,51.83,under $100,39,True
+P0170,Aquila Camera Max,camera,"water resistant, aluminum frame, microSD slot",3.6,824.21,$600–$899,3,True
+P0171,Qubit Tablet Pro,tablet,"tablet with OLED display, long battery life, stainless steel, NFC",3.6,618.84,$600–$899,18,True
+P0172,Solix Laptop Lite,laptop,"laptop with AMOLED display, 5G support, polycarbonate body, microSD slot",4.2,2437.6,$900+,37,True
+P0173,Aster Smartwatch Go,smartwatch,"fast charging, recycled materials, USB-C",4.0,166.21,$100–$299,40,True
+P0174,Zenro Headphones Max,headphones,"fast charging, recycled materials, USB-C",4.7,264.71,$100–$299,25,True
+P0175,Aster Headphones Air,headphones,"noise cancellation, recycled materials, Lightning",3.5,187.39,$100–$299,34,True
+P0176,NovaTech Charger Neo,charger,"long battery life, stainless steel, microSD slot",4.0,51.59,under $100,38,True
+P0177,NovaTech Power bank Go,power bank,"noise cancellation, recycled materials, NFC",4.7,104.38,$100–$299,20,True
+P0178,Futura Earbuds Plus,earbuds,"water resistant, polycarbonate body, microSD slot",4.4,55.3,under $100,29,True
+P0179,Futura Earbuds Lite,earbuds,"MagSafe-compatible, stainless steel, Lightning",3.3,222.53,$100–$299,15,True
+P0180,Zenro Smartwatch Plus,smartwatch,"noise cancellation, aluminum frame, Lightning",4.5,214.52,$100–$299,6,True
+P0181,NovaTech Camera Lite,camera,"dual-SIM, stainless steel, Lightning",3.8,1630.8,$900+,19,True
+P0182,Acme Laptop Air,laptop,"laptop with Retina display, long battery life, aluminum frame, NFC",4.3,992.24,$900+,24,True
+P0183,Aster Camera Neo,camera,"wireless charging, aluminum frame, Lightning",4.3,1965.59,$900+,18,True
+P0184,Futura Earbuds Mini,earbuds,"dual-SIM, recycled materials, Lightning",4.8,21.54,under $100,15,True
+P0185,Aster Phone case Lite,phone case,"dual-SIM, stainless steel, microSD slot",4.2,40.28,under $100,29,True
+P0186,Qubit Laptop Plus,laptop,"laptop with IPS display, 5G support, recycled materials, NFC",3.0,2086.52,$900+,40,True
+P0187,Okacha Charger Edge,charger,"noise cancellation, stainless steel, USB-C",3.3,70.1,under $100,33,True
+P0188,Solix Camera Max,camera,"water resistant, polycarbonate body, Lightning",4.5,268.66,$100–$299,34,True
+P0189,Zenro Power bank Max,power bank,"water resistant, recycled materials, USB-C",3.9,129.37,$100–$299,29,True
+P0190,Aquila Headphones Ultra,headphones,"water resistant, polycarbonate body, NFC",4.8,269.8,$100–$299,29,True
+P0191,Acme Power bank Edge,power bank,"5G support, stainless steel, NFC",4.3,62.99,under $100,3,True
+P0192,Okacha Camera Pro,camera,"MagSafe-compatible, stainless steel, USB-C",3.7,335.33,$300–$599,26,True
+P0193,BlueLeaf Smartwatch Mini,smartwatch,"water resistant, recycled materials, NFC",4.7,568.76,$300–$599,33,True
+P0194,NovaTech Smartwatch Lite,smartwatch,"water resistant, recycled materials, Lightning",3.6,563.3,$300–$599,4,True
+P0195,Zenro Tablet Mini,tablet,"tablet with E-Ink display, noise cancellation, recycled materials, microSD slot",2.9,574.48,$300–$599,18,True
+P0196,BlueLeaf Smartwatch Mini,smartwatch,"noise cancellation, recycled materials, USB-C",5.0,437.47,$300–$599,27,True
+P0197,Zenro Earbuds Plus,earbuds,"wireless charging, recycled materials, NFC",3.0,203.23,$100–$299,20,True
+P0198,Acme Phone case Ultra,phone case,"dual-SIM, aluminum frame, USB-C",4.5,13.4,under $100,19,True
+P0199,Zenro Phone case Lite,phone case,"long battery life, aluminum frame, Lightning",4.7,34.19,under $100,22,True
+P0200,BlueLeaf Laptop Air,laptop,"laptop with IPS display, water resistant, polycarbonate body, NFC",4.2,1755.58,$900+,37,True

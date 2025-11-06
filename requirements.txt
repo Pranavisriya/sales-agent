@@ -1,0 +1,13 @@
+langgraph>=0.2
+langchain-core>=0.3
+pydantic>=2.5
+httpx>=0.27
+python-dotenv>=1.0
+streamlit>=1.36
+groq>=0.9
+pandas>=2.2
+langchain
+langchain_groq
+fastapi
+uvicorn[standard]
+requests
